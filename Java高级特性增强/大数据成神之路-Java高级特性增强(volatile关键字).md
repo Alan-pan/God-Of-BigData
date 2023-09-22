@@ -8,6 +8,8 @@
 
 
 * * *
+补充一下JMM
+https://baijiahao.baidu.com/s?id=1709086005694976168&wfr=spider&for=pc
 ## volatile关键字
 
 
